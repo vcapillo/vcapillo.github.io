@@ -1,0 +1,1 @@
+export { default } from "/opt/workspace/mediumish-vuepress-blog-theme/node_modules/vuepress-plugin-mailchimp/src/enhanceAppFile.js"

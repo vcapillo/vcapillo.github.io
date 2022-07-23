@@ -1,0 +1,1 @@
+export { default } from "/opt/workspace/mediumish-vuepress-blog-theme/node_modules/@vuepress/plugin-blog/lib/client/pagination.js"
