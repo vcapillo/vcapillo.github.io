@@ -1,7 +1,6 @@
 ---
+permalink: "/sw.js"
 layout: compress
-permalink: '/sw.js'
-# PWA service worker
 ---
 
 self.importScripts('{{ "/assets/js/data/swcache.js" | relative_url }}');

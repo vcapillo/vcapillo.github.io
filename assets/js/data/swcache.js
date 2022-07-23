@@ -1,7 +1,5 @@
 ---
 layout: compress
-
-# The list to be cached by PWA
 ---
 
 const resource = [

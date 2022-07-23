@@ -1,6 +1,6 @@
 ---
+permalink: "/unregister.js"
 layout: compress
-permalink: '/unregister.js'
 ---
 
 if ('serviceWorker' in navigator) {

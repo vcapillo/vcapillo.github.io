@@ -1,6 +1,6 @@
 ---
+permalink: "/app.js"
 layout: compress
-permalink: '/app.js'
 ---
 
 const $notification = $('#notification');
