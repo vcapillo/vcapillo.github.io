@@ -4,7 +4,7 @@
         <title>Mediumish</title>
         <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/</link>
         <description>Blog example for Mediumish theme with VuePress</description>
-        <lastBuildDate>Sat, 23 Jul 2022 00:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 00:50:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom" rel="self" type="application/rss+xml"/>
