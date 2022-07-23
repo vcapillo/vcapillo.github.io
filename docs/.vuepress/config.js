@@ -3,8 +3,7 @@ module.exports = {
   base: '/',
   dest: 'public',
   description: 'Mediumish theme with VuePress and Forestry',
-  logo: './assets/img/logo.png',
-  theme: require.resolve('../../'),
+  logo: './assets/img/logo.png',  
   themeConfig: {
   authors: [
       {
