@@ -1,9 +1,8 @@
 backend:
   name: github
   repo: vcapillo/vcapillo.github.io # Path to your GitHub repository
-
-media_folder: "images/uploads"collections:
-
+media_folder: 'images/uploads'
+  #collections:
   #collections:
   #- name: "post" # Used in routes, e.g. /admin/collections/blog
   #  label: "Post" # Used in the UI
