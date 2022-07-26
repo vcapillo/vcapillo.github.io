@@ -1,8 +1,13 @@
 ---
-layout: post
 title: About
+layout: post
 ---
-
 This is an example page!
 
-Actually, it has the same layout of a post...
+Actually, it has the same layout of a post...++
+
+
+
+
+
+Game
