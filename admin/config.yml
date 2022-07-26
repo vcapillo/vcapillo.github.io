@@ -2,6 +2,7 @@
 backend:
   name: github
   repo: vcapillo/vcapillo.github.io
+  btanch: master
 media_folder: "images/uploads"
 collections:
   - name: "blog"  # Used in routes, e.g., /admin/collections/blog
