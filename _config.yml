@@ -8,6 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: single
+    author_profile: true
 email: your-email@example.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
@@ -19,14 +26,6 @@ github_username: jekyll
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: contrast
 logo: "/assets/images/vc-logo_88x88.png"
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 plugins:
 - jekyll-feed
 - jekyll-include-cache
