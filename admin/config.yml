@@ -2,6 +2,7 @@ backend:
   name: github
   repo: vcapillo/vcapillo.github.io # Path to your GitHub repository  
   branch: master
+  site_domain: chic-raindrop-7b591c.netlify.app
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
