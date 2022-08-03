@@ -1,8 +1,7 @@
 backend:
-  name: github
-  repo: vcapillo/vcapillo.github.io # Path to your GitHub repository
-  # optional, defaults to master
-  # branch: main
+  name: git-gateway
+  #repo: vcapillo/vcapillo.github.io # Path to your GitHub repository  
+  branch: master
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
