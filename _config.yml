@@ -23,6 +23,7 @@ baseurl: ''
 url: ''
 twitter_username: jekyllrb
 github_username: jekyll
+repository: vcapillo/vcapillo.github.io
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: contrast
 logo: "/assets/images/vc-logo_88x88.png"
