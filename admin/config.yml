@@ -1,6 +1,6 @@
 backend:
   name: github
-  repository: vcapillo/vcapillo.github.io # Path to your GitHub repository  
+  repo: vcapillo/vcapillo.github.io # Path to your GitHub repository  
   branch: master
 media_folder: 'assets/uploads'
 collections:
