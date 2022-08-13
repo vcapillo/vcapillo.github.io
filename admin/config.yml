@@ -17,3 +17,15 @@ collections:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Fecha de Publicación', name: 'date', widget: 'datetime' }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Pages'
+    editor:
+      preview: false
+    files:
+      - label: 'About Page'
+        name: 'about'
+        file: 'about.md'
+        fields:
+          - { label: 'Título', name: 'title', widget: 'hidden', default: 'about' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+          - { label: 'Contenido', name: 'body', widget: 'markdown' }
