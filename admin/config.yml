@@ -2,11 +2,18 @@ backend:
   name: github
   repo: vcapillo/vcapillo.github.io # Path to your GitHub repository  
   branch: master
-  site_domain: chic-raindrop-7b591c.netlify.app
+  site_domain: blog.alias.nom.pe
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
     fields:
-      - { name: Title }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
