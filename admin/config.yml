@@ -24,7 +24,7 @@ collections:
     files:
       - label: 'About Page'
         name: 'about'
-        file: 'about.markdown'
+        file: 'about.md'
         fields:
           - { label: 'Título', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
