@@ -1,7 +1,8 @@
 ---
-title: "Posts by Category (grid view)"
+title: Posts by Category (grid view)
+permalink: "/categories-grid/"
 layout: categories
-permalink: /categories-grid/
 entries_layout: grid
 author_profile: true
 ---
+

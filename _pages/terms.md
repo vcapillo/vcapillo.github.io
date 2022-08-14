@@ -1,7 +1,7 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-last_modified_at: 2016-06-06
+title: Terms and Privacy Policy
+permalink: "/terms/"
+last_modified_at: 2016-06-06 00:00:00 Z
 toc: true
 ---
 

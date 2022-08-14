@@ -1,8 +1,8 @@
 ---
+title: Recipes
+permalink: "/recipes-archive/"
 layout: collection
-title: "Recipes"
 collection: recipes
-permalink: /recipes-archive/
 author_profile: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Markup (grid view)
+permalink: "/tags/markup-grid/"
 layout: tag
-permalink: /tags/markup-grid/
 taxonomy: markup
 entries_layout: grid
 ---

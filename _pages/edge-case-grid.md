@@ -1,7 +1,7 @@
 ---
 title: Edge Case (grid view)
+permalink: "/categories/edge-case-grid/"
 layout: category
-permalink: /categories/edge-case-grid/
 taxonomy: Edge Case
 entries_layout: grid
 ---
