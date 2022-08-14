@@ -1,12 +1,13 @@
 ---
-title: "Post: Twitter Embed"
+title: 'Post: Twitter Embed'
+date: 2010-09-10 00:00:00 Z
 categories:
-  - Media
+- Media
 tags:
-  - content
-  - embeds
-  - media
-  - twitter
+- content
+- embeds
+- media
+- twitter
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🎨 Finally got around to adding all my <a href="https://twitter.com/procreateapp">@procreateapp</a> creations with time lapse videos <a href="https://t.co/1nNbkefC3L">https://t.co/1nNbkefC3L</a> <a href="https://t.co/gcNLJoJ0Gn">pic.twitter.com/gcNLJoJ0Gn</a></p>&mdash; Michael Rose (@mmistakes) <a href="https://twitter.com/mmistakes/status/662678050795094016">November 6, 2015</a></blockquote>

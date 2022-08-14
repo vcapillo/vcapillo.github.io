@@ -1,12 +1,13 @@
 ---
-title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
+title: 'Markup: Title with Special&nbsp;---&nbsp;Characters'
+date: 2013-01-05 00:00:00 Z
 categories:
-  - Markup
+- Markup
 tags:
-  - html
-  - markup
-  - post
-  - title
+- html
+- markup
+- post
+- title
 ---
 
 Putting special characters in the title should have no adverse effect on the layout or functionality.

@@ -1,12 +1,13 @@
 ---
-title: "Layout: Comments Disabled"
-comments: false
+title: 'Layout: Comments Disabled'
+date: 2012-01-02 00:00:00 Z
 categories:
-  - Layout
-  - Uncategorized
+- Layout
+- Uncategorized
 tags:
-  - comments
-  - layout
+- comments
+- layout
+comments: false
 ---
 
 This post has its comments disabled.

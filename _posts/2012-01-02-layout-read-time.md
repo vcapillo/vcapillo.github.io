@@ -1,8 +1,9 @@
 ---
-title: "Layout: Read Time Enabled"
-read_time: true
+title: 'Layout: Read Time Enabled'
+date: 2012-01-02 00:00:00 Z
 tags:
-  - read time
+- read time
+read_time: true
 ---
 
 This post has reading time enabled. The estimated time that it takes to read this post should show if also enabled in `_config.yml` with `read_time: true`.

@@ -1,15 +1,16 @@
 ---
-title: "Layout: Header Video"
+title: 'Layout: Header Video'
+date: 2017-01-23 00:00:00 Z
+categories:
+- Layout
+- Uncategorized
+tags:
+- video
+- layout
 header:
   video:
-    id: -PVofD2A9t8
+    id: "-PVofD2A9t8"
     provider: youtube
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - video
-  - layout
 ---
 
 This post should display a **header with a responsive video**, if the theme supports it.

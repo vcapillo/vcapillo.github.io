@@ -1,9 +1,10 @@
 ---
-title: "Post: Video (YouTube)"
+title: 'Post: Video (YouTube)'
+date: 2010-06-02 00:00:00 Z
 categories:
-  - Post Formats
+- Post Formats
 tags:
-  - Post Formats
+- Post Formats
 ---
 
 YouTube video embed below.

@@ -1,11 +1,12 @@
 ---
-title: "Markup: Title *with* **Markdown**"
+title: 'Markup: Title *with* **Markdown**'
+date: 2013-01-05 00:00:00 Z
 categories:
-  - Markdown
+- Markdown
 tags:
-  - css
-  - html
-  - title
+- css
+- html
+- title
 ---
 
 Verify that:

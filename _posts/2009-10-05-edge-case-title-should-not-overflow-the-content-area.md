@@ -1,14 +1,15 @@
 ---
-title: "Antidisestablishmentarianism"
+title: Antidisestablishmentarianism
+date: 2009-10-05 00:00:00 Z
 categories:
-  - Edge Case
+- Edge Case
 tags:
-  - content
-  - css
-  - edge case
-  - html
-  - layout
-  - title
+- content
+- css
+- edge case
+- html
+- layout
+- title
 ---
 
 ## Title should not overflow the content area

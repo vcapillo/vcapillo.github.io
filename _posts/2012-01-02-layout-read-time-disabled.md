@@ -1,8 +1,9 @@
 ---
-title: "Layout: Read Time Disabled"
-read_time: false
+title: 'Layout: Read Time Disabled'
+date: 2012-01-02 00:00:00 Z
 tags:
-  - read time
+- read time
+read_time: false
 ---
 
 This post has reading time disabled. The estimated time that it takes to read this post should not be showing if `read_time: false` is set in `_config.yml` or in this post's YAML Front Matter.

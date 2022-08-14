@@ -1,13 +1,14 @@
 ---
-title: "Layout: More Tag"
-excerpt_separator: <!--more-->
+title: 'Layout: More Tag'
+date: 2012-03-15 00:00:00 Z
 categories:
-  - Layout
-  - Uncategorized
+- Layout
+- Uncategorized
 tags:
-  - content
-  - read more
-  - layout
+- content
+- read more
+- layout
+excerpt_separator: "<!--more-->"
 ---
 
 This content is before the [excerpt separator tag](http://jekyllrb.com/docs/posts/#post-excerpts).

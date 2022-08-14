@@ -1,7 +1,8 @@
 ---
-title: "Layout: Post with Sticky Table of Contents"
+title: 'Layout: Post with Sticky Table of Contents'
+date: 2012-01-03 00:00:00 Z
 tags:
-  - table of contents
+- table of contents
 toc: true
 toc_sticky: true
 ---

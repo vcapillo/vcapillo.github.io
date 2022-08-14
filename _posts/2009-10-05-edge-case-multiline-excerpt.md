@@ -1,5 +1,6 @@
 ---
-title: "Edge Case: Post with multiline excerpt"
+title: 'Edge Case: Post with multiline excerpt'
+date: 2009-10-05 00:00:00 Z
 ---
 
 Et ex ullamco duis don't

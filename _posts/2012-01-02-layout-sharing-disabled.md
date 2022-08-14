@@ -1,12 +1,13 @@
 ---
-title: "Layout: Social Sharing Links Disabled"
-share: false
+title: 'Layout: Social Sharing Links Disabled'
+date: 2012-01-02 00:00:00 Z
 categories:
-  - Layout
-  - Uncategorized
+- Layout
+- Uncategorized
 tags:
-  - social
-  - layout
+- social
+- layout
+share: false
 ---
 
 This post has social sharing disabled.

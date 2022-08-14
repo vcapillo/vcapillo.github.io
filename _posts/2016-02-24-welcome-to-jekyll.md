@@ -1,11 +1,12 @@
 ---
-title:  "Welcome to Jekyll!"
-header:
-  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
-categories: 
-  - Jekyll
+title: Welcome to Jekyll!
+date: 2016-02-24 00:00:00 Z
+categories:
+- Jekyll
 tags:
-  - update
+- update
+header:
+  teaser: https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in [many different ways](https://jekyllrb.com/docs/usage/), but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

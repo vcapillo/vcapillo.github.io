@@ -1,9 +1,11 @@
 ---
-title: "Edge Case: No Body Content"
+title: 'Edge Case: No Body Content'
+date: 2009-08-06 00:00:00 Z
 categories:
-  - Edge Case
+- Edge Case
 tags:
-  - content
-  - edge case
-  - layout
+- content
+- edge case
+- layout
 ---
+

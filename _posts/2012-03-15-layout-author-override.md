@@ -1,7 +1,8 @@
 ---
-title: "Layout: Author Override"
+title: 'Layout: Author Override'
+date: 2012-03-15 00:00:00 Z
 author: Billy Rick
-excerpt: "A post to test author overrides using a data file."
+excerpt: A post to test author overrides using a data file.
 ---
 
 Sites that may have content authored from various individuals can be accommodated by using [data files](https://jekyllrb.com/docs/datafiles/).

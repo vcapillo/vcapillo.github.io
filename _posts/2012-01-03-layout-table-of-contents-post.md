@@ -1,13 +1,14 @@
 ---
-title: "Layout: Post with Table of Contents"
+title: 'Layout: Post with Table of Contents'
+date: 2012-01-03 00:00:00 Z
+tags:
+- table of contents
 header:
   image: assets/images/unsplash-image-9.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-tags:
-  - table of contents
+  caption: 'Photo credit: [**Unsplash**](https://unsplash.com)'
 toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"
+toc_label: Unique Title
+toc_icon: heart
 ---
 
 Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with:

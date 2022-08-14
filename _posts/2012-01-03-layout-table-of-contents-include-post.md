@@ -1,7 +1,8 @@
 ---
-title: "Layout: Post with Nested Table of Contents via Helper"
+title: 'Layout: Post with Nested Table of Contents via Helper'
+date: 2012-01-03 00:00:00 Z
 tags:
-  - table of contents
+- table of contents
 ---
 
 Tests table of contents with multiple levels to verify indentation is readible via helper include (deprecated).

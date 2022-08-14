@@ -1,6 +1,7 @@
 ---
-title: "Layout: Author Sidebar Disabled"
-excerpt: "A post to test disabling author sidebar."
+title: 'Layout: Author Sidebar Disabled'
+date: 2012-03-15 00:00:00 Z
+excerpt: A post to test disabling author sidebar.
 author_profile: false
 ---
 

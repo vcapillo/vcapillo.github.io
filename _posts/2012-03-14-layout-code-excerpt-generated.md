@@ -1,12 +1,13 @@
 ---
-title: "Layout: Code Excerpt (Generated)"
+title: 'Layout: Code Excerpt (Generated)'
+date: 2012-03-14 00:00:00 Z
 categories:
-  - Layout
-  - Uncategorized
+- Layout
+- Uncategorized
 tags:
-  - content
-  - excerpt
-  - layout
+- content
+- excerpt
+- layout
 ---
 
 This is the post content with inline code, (e.g. `<span style="color: red;">red</span>`. It should be displayed in place of the auto-generated excerpt in single-page views. Archive-index pages should display an auto-generated excerpt of this content.
