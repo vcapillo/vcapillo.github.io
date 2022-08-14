@@ -65,8 +65,8 @@ subtitle: Development Test Site
 name: Your Name
 description: Minimal Mistakes theme test.
 url: 
-baseurl: "/test"
-repository: 
+baseurl: ""
+repository: vcapillo/vcapillo.github.io
 teaser: 
 logo: "/assets/images/apple-touch-icon.png"
 masthead_title: Custom Title
