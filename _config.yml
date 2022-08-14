@@ -61,7 +61,7 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: contrast
 locale: en-US
 title_separator: "-"
-subtitle: Development Test Site
+subtitle: 
 name: Your Name
 description: Minimal Mistakes theme test.
 url: 
@@ -69,7 +69,7 @@ baseurl: ''
 repository: vcapillo/vcapillo.github.io
 teaser: 
 logo: "/assets/images/apple-touch-icon.png"
-masthead_title: Custom Title
+masthead_title: Personal Blog
 words_per_minute: 200
 comments:
   provider: 
@@ -102,9 +102,9 @@ search_provider: lunr
 lunr:
   search_within_pages: true
 algolia:
-  application_id: QB6HVGBSBA
-  index_name: dev_minimal-mistakes
-  search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
+  application_id: MMW6TVQEQY
+  index_name: dev_blogalias
+  search_only_api_key: 858a88827fda0051a47557d1187fa547
   powered_by: true
 google_site_verification: 
 bing_site_verification: 
