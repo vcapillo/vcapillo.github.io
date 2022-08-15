@@ -21,4 +21,9 @@ collections:
       - { label: 'Last Modified', name: 'last_modified_at', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Teaser Image', name: 'teaser', widget: 'image' }
+      - label: "Header"
+        name: "header"
+        widget: "object"
+        fields:
+          - { label: 'Teaser Image', name: 'teaser', widget: 'image' }
       - { label: 'Toc', name: 'toc', widget: 'boolean', default: true }
