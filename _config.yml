@@ -1,5 +1,5 @@
 ---
-title: VC Personal Blog
+title: VC Blog
 timezone: UTC
 collections:
   pets:
@@ -69,7 +69,7 @@ baseurl: ''
 repository: vcapillo/vcapillo.github.io
 teaser: 
 logo: "/assets/images/apple-touch-icon.png"
-masthead_title: Personal Blog
+masthead_title: Blog
 words_per_minute: 200
 comments:
   provider: 
