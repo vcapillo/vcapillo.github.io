@@ -127,9 +127,9 @@ analytics:
   google:
     tracking_id: 
 author:
-  name: Your Name
+  name: Victor Capillo
   avatar: "/assets/images/bio-photo.jpg"
-  bio: I am an **amazing** person.
+  bio: LPIC-1 Certified Linux Administrator.
   location: Somewhere
   links:
   - label: Your Website
