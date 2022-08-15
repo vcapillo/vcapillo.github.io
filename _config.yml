@@ -139,7 +139,7 @@ author:
     icon: fab fa-fw fa-github-square
     url: https://github.com/vcapillo
   - label: Badgr
-    icon: fab fa-fw fa-certificate
+    icon: fa fa-fw fa-certificate
     url: https://api.badgr.io/public/collections/c70333ec51fba908d8b174e8e07a9810
 footer:
   links:
