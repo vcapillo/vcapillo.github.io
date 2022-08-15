@@ -24,5 +24,5 @@ collections:
         name: "header"
         widget: "object"
         fields:
-          - { label: 'Teaser Image', name: 'teaser', widget: 'image' }
+          - { label: 'Teaser Image', name: 'teaser', widget: 'image' ,required: false }
       - { label: 'Toc', name: 'toc', widget: 'boolean', default: true }
