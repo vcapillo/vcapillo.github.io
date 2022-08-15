@@ -132,15 +132,12 @@ author:
   bio: LPIC-1 Certified Linux Administrator.
   location: Lima, PE
   links:
-  - label: Your Website
+  - label: Proyectos
     icon: fas fa-fw fa-link
-    url: https://your-site.com
-  - label: Twitter
-    icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/
+    url: https://portal.alias.nom.pe
   - label: GitHub
-    icon: fab fa-fw fa-github
-    url: https://github.com/
+    icon: <i class="fa-brands fa-square-github"></i>
+    url: https://github.com/vcapillo
   - label: Instagram
     icon: fab fa-fw fa-instagram
     url: https://instagram.com/
