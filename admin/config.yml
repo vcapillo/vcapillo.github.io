@@ -19,3 +19,4 @@ collections:
       - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
       - { label: 'Last Modified', name: 'last_modified_at', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Toc', name: 'toc', widget: 'boolean', default: true }
