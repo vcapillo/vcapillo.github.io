@@ -63,8 +63,8 @@ locale: en-US
 title_separator: "-"
 subtitle: 
 name: Victor Capillo
-description: Minimal Mistakes theme test.
-url: 
+description: Personal Blog.
+url: https://blog.alias.nom.pe
 baseurl: ''
 repository: vcapillo/vcapillo.github.io
 teaser: 

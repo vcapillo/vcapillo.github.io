@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: capillo splash
 date: 2022-08-16T00:12:39.886Z
 tags:
